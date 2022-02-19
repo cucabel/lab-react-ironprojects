@@ -1,0 +1,13 @@
+#fluid-button {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.task {
+    margin-top: 10px;
+}
+
+h2,
+p {
+    color: black;
+}

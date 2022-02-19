@@ -1,0 +1,21 @@
+.nav-link {
+    text-decoration: none;
+}
+
+#fluid-button {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.cards {
+    margin: 10px auto;
+}
+
+.project-tasks {
+    height: 140px;
+}
+
+h2,
+p {
+    color: black;
+}
